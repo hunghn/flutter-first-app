@@ -1,6 +1,7 @@
-# odoo_mobile_test
+# fullter_first_app
 
 A new Flutter project.
+The first thing to start development Odoo mobile
 
 ## Getting Started
 
