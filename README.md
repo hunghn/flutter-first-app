@@ -1,4 +1,4 @@
-# fullter_first_app
+# flutter_first_app
 
 A new Flutter project.
 The first thing to start development Odoo mobile
